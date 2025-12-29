@@ -14,8 +14,8 @@
 
 ---
 
-### 统计数据
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bilicapr&show_icons=true&theme=transparent)
+![Total Contributions](https://img.shields.io/badge/Contributions-430%20Last%20Year-0e75b6?style=flat-square&logo=github)
+![Profile Views](https://img.shields.io/badge/Status-Growing-brightgreen?style=flat-square)
 
 ---
 
